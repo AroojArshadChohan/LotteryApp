@@ -1,7 +1,7 @@
 /*
 Developer: Arooj Arshad
-Midterm Task
-Heroku Link: https://pure-crag-58680.herokuapp.com/
+Midterm Task - JAVA
+Heroku Link:  https://pacific-coast-78069.herokuapp.com/
 */
 
 
